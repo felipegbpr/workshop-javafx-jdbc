@@ -4,7 +4,7 @@
 
 ## 📃 Sobre o projeto 
 
-Este projeto é uma aplicação construída com <i>JavaFX</i> que possui integração a <i>JDBC</i> com conexão ao <i>MySQL</i>, seu modelo funcional consiste em um sistema para 
+Este projeto é uma aplicação construída com <i>JavaFX</i> e <i>JDBC</i> com camada de conexão ao <i>MySQL</i>, seu modelo funcional consiste em um sistema para 
 gerenciamento de departamento de vendas.
 
 O objetivo deste projeto é aplicar os conceitos de desenvolvimento de uma <i>Alicação Desktop</i> utilizando o ecossistema da linguagem Java.
